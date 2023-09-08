@@ -10,7 +10,7 @@ You may use the wallet and website for lawful purposes only. You must not use th
 
 3. Privacy Policy
 
-Your use of the wallet and website is also governed by our Privacy Policy [link to Privacy Policy], which outlines how we collect, use, and protect your personal information.
+Your use of the wallet and website is also governed by our Privacy Policy https://github.com/JellyChain1/dexcoin1docs/blob/main/privacypolicy.md, which outlines how we collect, use, and protect your personal information.
 
 4. Account Security
 

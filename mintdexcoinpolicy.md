@@ -26,7 +26,7 @@ This DEX Coin Factory Minting Policy ("Policy") defines the terms and conditions
 
 4.1. Intellectual Property: All intellectual property rights, including trademarks, logos, and content associated with DEX Coin Factory, remain the exclusive property of DEX Coin Factory.
 
-4.2. Token Ownership: Minting DEX Coins does not confer any ownership rights or privileges beyond those explicitly outlined in accompanying documentation.
+4.2. Token Ownership: Minting DEX Coins does not confer any ownership rights or privileges beyond those explicitly outlined in the accompanying documentation.
 
 5. Compliance and Legalities
 
@@ -42,6 +42,6 @@ This DEX Coin Factory Minting Policy ("Policy") defines the terms and conditions
 
 By minting DEX Coins through the DEX Coin Factory, users confirm their understanding and acceptance of this Policy. DEX Coin Factory reserves the right to amend or update this Policy without prior notice.
 
-Last Updated: [Date]
+Last Updated: 9/29/2023
 
 This policy provides a comprehensive framework for minting DEX Coins through the DEX Coin Factory, ensuring a transparent and compliant minting process within the DEX Coin Factory ecosystem.
